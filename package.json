@@ -1,0 +1,23 @@
+{
+  "name": "fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server -p 80 ./local"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahamAlcaina/FP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrahamAlcaina/FP/issues"
+  },
+  "homepage": "https://github.com/AbrahamAlcaina/FP#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
